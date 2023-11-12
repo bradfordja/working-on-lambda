@@ -1,8 +1,5 @@
 ### NodeJs back-end code with Lambda Nodejs api function
 
-As an AWS export and Nodejs developer with Senior knowledge of Lambda functions Development, you may encounter a variety of interview questions to assess your proficiency with Senior knowledge of AWS Lambda NodeJs Developer and your ability to build efficient and maintainable applications.  I want your help writing a sample code for a Lambda Nodejs api function that manages users[createEngineer,updateEngineer,getEngineerById,getEngineerAll] using pool connection to Amazon RDS and setting IAM permissions.  Answers with simple step by step explanation, list AWS System requirement and sample uses-case and include [ modules, components, services, models] in ES6 format and using the Engineer interface below
-
-
 export interface Engineer {
     userId: number;
     firstName: string;
